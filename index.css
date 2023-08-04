@@ -1,0 +1,102 @@
+.Main_pic{
+    width: 400;
+    height: 580;
+    margin-left: 60;
+    margin-top: 60;
+    
+   
+}
+body{
+    background-color:#000000;
+    font-family: Inter, sans-serif; 
+}
+.Name{
+    
+    color:#d4ddf7;
+    display: flex;
+    margin-left: 750;
+    margin-top: -610;
+    font-size: 80;
+    letter-spacing: 0.2rem;
+    font-family: Inter, sans-serif;
+    
+}
+.skills{
+    align-items: center;
+    color:#d4ddf7;
+    display: flex;
+    margin-left: 920;
+    margin-top:240;
+    font-size: 40;
+    letter-spacing: 0.2rem;
+    
+}
+.list>li{
+    color:#d4ddf7;
+    margin-left: 550;
+    font-size: 25;
+    line-height: 1.5;
+}
+.list>li::marker{
+    color: 148cd1;
+    font-size: 2.1rem;
+}
+.github{
+    width: 50;
+    height: 50;
+    margin-left: 70;
+    margin-top: -90;
+    
+    
+}
+.hackerrank{
+    width: 50;
+    height: 50;
+    margin-left:30;
+    margin-top: -90;
+    
+    }
+    .linkedin{
+        width: 50;
+        height: 50;
+            margin-left:30;
+            margin-top: -90;
+
+}
+.linkedin{
+    width: 50;
+    height: 50;
+    margin-left: 30;
+    margin-top: -90;
+}
+.codechef{
+    width: 55;
+    margin-top: -90;
+    margin-left: 30;
+}
+.leetcode{
+    
+    width: 60;
+    margin-top: -90;
+   margin-left: 30;
+
+
+}
+.mail{
+    color:#d4ddf7;
+    margin-top: -30;
+    margin-left: 870;
+}
+
+.about_content{
+    color:#d4ddf7;
+    font-size: 25px;
+    position: absolute;
+    top: 40%; 
+    transform: translateY(-50%);
+    left: 37%; 
+    width: 60%; 
+    line-height: 1.7;
+
+    box-sizing: border-box;
+}
